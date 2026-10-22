@@ -31,3 +31,13 @@ Building backend projects and exploring reliable, scalable system design.
 ---
 
 *Always learning. Always building.*
+
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,rabbitmq,docker,kubernetes,git,github,linux,pytest&perline=11" />
+  </a>
+</p>
+
