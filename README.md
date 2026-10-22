@@ -1,22 +1,32 @@
-## 🛠️ Languages and Tools
+# Hi 👋, I'm Egor
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://jsdelivr.net" height="40" alt="Python" title="Python" />&nbsp;
-  
-  <!-- Frameworks & Libraries -->
-  <img src="https://tiangolo.com" height="40" alt="FastAPI" title="FastAPI" />&nbsp;
-  
-  <!-- Databases & Caching -->
-  <img src="https://jsdelivr.net" height="40" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
-  <img src="https://jsdelivr.net" height="40" alt="Redis" title="Redis" />&nbsp;
-  
-  <!-- DevOps & Brokers -->
-  <img src="https://jsdelivr.net" height="40" alt="Docker" title="Docker" />&nbsp;
-  <img src="https://jsdelivr.net" height="40" alt="Kubernetes" title="Kubernetes" />&nbsp;
-  <img src="https://githubusercontent.com" height="40" alt="RabbitMQ" title="RabbitMQ" />&nbsp;
-  <img src="https://githubusercontent.com" height="40" alt="Kafka" title="Apache Kafka" />&nbsp;
-  
-  <!-- Tools -->
-  <img src="https://jsdelivr.net" height="40" alt="Git" title="Git" />&nbsp;
-</p>
+### Python Backend Developer
+
+I build backend services with a focus on performance, reliability, and clean architecture.
+
+**Tech Stack**
+
+- **Languages:** Python, SQL
+- **Backend:** FastAPI, asyncio, Pydantic, SQLAlchemy
+- **Databases:** PostgreSQL, Redis
+- **Messaging & Background Tasks:** RabbitMQ, Celery, Kafka
+- **DevOps:** Docker, Kubernetes, GitHub Actions
+- **Testing:** pytest
+
+**Areas of Interest**
+
+- Backend architecture & system design
+- Asynchronous programming
+- Database optimization
+- Distributed systems & event-driven architecture
+- High-load applications
+
+### 🛠️ Currently working on
+Building backend projects and exploring reliable, scalable system design.
+
+### 📫 Connect with me
+- GitHub: [@EgorIvanovichh](https://github.com/EgorIvanovichh)
+
+---
+
+*Always learning. Always building.*
