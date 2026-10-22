@@ -8,9 +8,9 @@ I build backend services with a focus on performance, reliability, and clean arc
 
 - **Languages:** Python, SQL
 - **Backend:** FastAPI, asyncio, Pydantic, SQLAlchemy
-- **Databases:** PostgreSQL, Redis
-- **Messaging & Background Tasks:** RabbitMQ, Celery, Kafka
-- **DevOps:** Docker, Kubernetes, GitHub Actions
+- **Databases:** PostgreSQL, Redis, Klickhouse
+- **Messaging & Background Tasks:** RabbitMQ, Celery
+- **DevOps:** Docker, GitHub Actions, GitLab CI
 - **Testing:** pytest
 
 **Areas of Interest**
@@ -25,8 +25,9 @@ I build backend services with a focus on performance, reliability, and clean arc
 Building backend projects and exploring reliable, scalable system design.
 
 ### 📫 Connect with me
-- GitHub: [@EgorIvanovichh](https://github.com/EgorIvanovichh)
-
+- GitHub: [@EgorIvanovichh](https://github.com/514dotcom)
+- Telegram: na1se22
+- LinkedIn: deleted
 ---
 
 *Always learning. Always building.*
